@@ -1,6 +1,6 @@
-[![MXC6226XU](MXC6226XU_I2CS.png)](https://www.controleverything.com/content/Light?sku=MXC6226XU_I2CS)
+[![MXC6226XU](MXC6226XU_I2CS.png)](https://www.controleverything.com/content/Accelorometer?sku=MXC6226XU_I2CS)
 # MXC6226XU
-MXC6226XU Proximity and Ambient Light Sensor
+MXC6226XU Digital Thermal Orientation Accelerometer
 
 The MXC6226XU is a Digital thermal  orientation sensor.
 

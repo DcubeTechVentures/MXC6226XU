@@ -2,4 +2,4 @@ lang:java
 lang:python
 lang:arduino
 lang:particle
-sku:TMP007_I2CS
+sku:MXC6226XU_I2CS

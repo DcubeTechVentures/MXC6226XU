@@ -2,4 +2,5 @@ lang:java
 lang:python
 lang:arduino
 lang:particle
+lang:C
 sku:MXC6226XU_I2CS

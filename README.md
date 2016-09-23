@@ -4,9 +4,9 @@ MXC6226XU Digital Thermal Orientation Accelerometer
 
 The MXC6226XU is a Digital thermal  orientation sensor.
 
-This Device is available from ControlEverything.com [SKU: MXC6226XU_I2CS]
+This Device is available from DCUBE Store [SKU: MXC6226XU_I2CS]
 
-https://www.controleverything.com/content/Accelorometer?sku=MXC6226XU_I2CS
+http://dcubestore.com/product/mxc6226xu-digital-thermal-orientation-accelerometer/
 
 This Sample code can be used with Raspberry pi, Arduino, Particle and Beaglebone Black.
 
